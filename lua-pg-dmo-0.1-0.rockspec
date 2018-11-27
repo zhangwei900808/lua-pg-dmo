@@ -17,6 +17,5 @@ build = {
    type = "builtin",
    modules = {
      lua_pg_dmo = "lua_pg_dmo.lua"
-   },
-   copy_directories = { "doc" }
+   }
 }
