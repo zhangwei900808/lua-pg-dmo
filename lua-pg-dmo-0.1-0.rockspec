@@ -18,10 +18,5 @@ build = {
    modules = {
      lua_pg_dmo = "lua_pg_dmo.lua"
    },
-   install = {
-     bin = {
-       "bin/lua_pg_dmo"
-     }	
-   },
    copy_directories = { "doc" }
 }
