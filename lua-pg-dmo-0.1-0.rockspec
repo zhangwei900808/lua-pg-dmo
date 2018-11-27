@@ -16,6 +16,6 @@ dependencies = {
 build = {
    type = "builtin",
    modules = {
-     lua_pg_dmo = "lua_pg_dmo.lua"
+     ["lua-pg-dmo"] = "lua-pg-dmo.lua"
    }
 }
